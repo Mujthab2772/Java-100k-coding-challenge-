@@ -1,0 +1,12 @@
+!SESSION 2023-07-31 22:41:45.491 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=11.0.19
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui.navigator 4 0 2023-07-31 22:45:12.382
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "src [in sample]
+  <default> (not open)
+  sample (not open)".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
