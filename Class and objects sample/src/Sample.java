@@ -18,8 +18,7 @@ public class Sample {
 		s1.calculatesum(num3, num4);
 		s1.displaysum();
 		
-		s.displaysum();
-		s1.displaysum();
+		
 	}
 
 }
